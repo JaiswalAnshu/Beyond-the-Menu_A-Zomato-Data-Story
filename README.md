@@ -3,6 +3,8 @@
 
 ![food]((https://github.com/user-attachments/assets/52994167-fa1d-4c46-ab7a-5cfc6ed383b0) width="100")
 
+<img src="[https://yourimageurl.com/image.png](https://github.com/user-attachments/assets/52994167-fa1d-4c46-ab7a-5cfc6ed383b0)" width="200"/>
+
 ## 📌 Overview
 With the explosion of the food industry and the rise of online food delivery platforms, data analytics has become a game-changer. **"Beyond the Menu: A Zomato Data Story"** is an **Exploratory Data Analysis (EDA) project** aimed at uncovering insightful trends in the restaurant ecosystem using **Zomato's dataset**.
 
