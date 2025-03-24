@@ -1,9 +1,7 @@
 # Beyond the Menu: A Zomato Data Story 🍽️📊
 **Unveiling the hidden patterns in the restaurant industry through data!**
 
-![food]((https://github.com/user-attachments/assets/52994167-fa1d-4c46-ab7a-5cfc6ed383b0)
-
-<img src="https://github.com/user-attachments/assets/52994167-fa1d-4c46-ab7a-5cfc6ed383b0" alt="food" width="200"/>
+<img src="https://github.com/user-attachments/assets/52994167-fa1d-4c46-ab7a-5cfc6ed383b0" alt="food" width="400" height="250" />
 
 
 ## 📌 Overview
